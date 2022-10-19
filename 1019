@@ -1,11 +1,11 @@
-   #netstat
- -  netstat\?
- -  netstat -a
- -  netstat -an
- -  netstat -ano
- ---
- C:\Users\user>netstat \?
- 顯示通訊協定統計資料與目前的 TCP/IP 網路連線
+# netstat
+-  netstat\? 
+-  netstat -a
+-  netstat -an
+-  netstat -ano
+---
+C:\Users\user>netstat \?
+顯示通訊協定統計資料與目前的 TCP/IP 網路連線
 
 NETSTAT [-a] [-b] [-e] [-f] [-n] [-o] [-p proto] [-r] [-s] [-t] [-x] [-y] [interval]
 
